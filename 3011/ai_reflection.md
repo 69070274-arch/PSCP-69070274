@@ -59,7 +59,7 @@ ChatGPT
 
 | Statement | Yes / No / Not Applicable | Short note |
 |---|---|---|
-| I read the relevant workflow before using AI. | Yes | Example: `workflows/STUDENT_WORKFLOW_WEB_CHAT.md`, `workflows/STUDENT_WORKFLOW_CHATGPT_CODEX.md`, `workflows/STUDENT_WORKFLOW_CLAUDE_CODE.md`, or another workflow announced by the instructor |
+| I read the relevant workflow before using AI. | Yes | `workflows/STUDENT_WORKFLOW_WEB_CHAT.md`|
 | I used `instructions/COURSE_AI_INSTRUCTIONS.md`, `instructions/AGENTS.md`, or manually followed the course AI instructions if the tool did not support custom instructions. | Yes | อ่านคำแนะนำที่ได้แล้วค่อยๆทำความเข้าใจ |
 | I wrote my own problem understanding before asking AI for help. | Yes | บอกปัญหาไปก่อน แล้วลองทำความเข้าใจ |
 | I wrote my own first plan before asking AI for help. | No | Briefly say where you wrote it |
