@@ -313,4 +313,3 @@ No
 | I did not copy code from another person. | Yes |
 | If I received human help, I disclosed it in this file. | Yes |
 | I submitted the final code to the OJ by myself. | Yes |
-เลื่อนลงอ่านให้
